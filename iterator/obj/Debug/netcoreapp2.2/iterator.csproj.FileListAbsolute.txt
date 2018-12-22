@@ -1,0 +1,11 @@
+/Volumes/NAS 1/Program/Source/iterator/bin/Debug/netcoreapp2.2/iterator.deps.json
+/Volumes/NAS 1/Program/Source/iterator/bin/Debug/netcoreapp2.2/iterator.runtimeconfig.json
+/Volumes/NAS 1/Program/Source/iterator/bin/Debug/netcoreapp2.2/iterator.runtimeconfig.dev.json
+/Volumes/NAS 1/Program/Source/iterator/bin/Debug/netcoreapp2.2/iterator.dll
+/Volumes/NAS 1/Program/Source/iterator/bin/Debug/netcoreapp2.2/iterator.pdb
+/Volumes/NAS 1/Program/Source/iterator/obj/Debug/netcoreapp2.2/iterator.csprojAssemblyReference.cache
+/Volumes/NAS 1/Program/Source/iterator/obj/Debug/netcoreapp2.2/iterator.csproj.CoreCompileInputs.cache
+/Volumes/NAS 1/Program/Source/iterator/obj/Debug/netcoreapp2.2/iterator.AssemblyInfoInputs.cache
+/Volumes/NAS 1/Program/Source/iterator/obj/Debug/netcoreapp2.2/iterator.AssemblyInfo.cs
+/Volumes/NAS 1/Program/Source/iterator/obj/Debug/netcoreapp2.2/iterator.dll
+/Volumes/NAS 1/Program/Source/iterator/obj/Debug/netcoreapp2.2/iterator.pdb

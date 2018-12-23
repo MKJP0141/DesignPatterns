@@ -23,6 +23,7 @@ namespace iterator
             iterator.Step = 2;
 
             Console.WriteLine("Iterating over collection;");
+            Console.WriteLine("git test");
 
             for (Item item = iterator.First(); !iterator.IsDone; item = iterator.Next())
             {

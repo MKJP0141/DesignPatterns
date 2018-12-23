@@ -1,0 +1,11 @@
+/Volumes/NAS 1/Program/Source/adapter/bin/Debug/netcoreapp2.2/adapter.deps.json
+/Volumes/NAS 1/Program/Source/adapter/bin/Debug/netcoreapp2.2/adapter.runtimeconfig.json
+/Volumes/NAS 1/Program/Source/adapter/bin/Debug/netcoreapp2.2/adapter.runtimeconfig.dev.json
+/Volumes/NAS 1/Program/Source/adapter/bin/Debug/netcoreapp2.2/adapter.dll
+/Volumes/NAS 1/Program/Source/adapter/bin/Debug/netcoreapp2.2/adapter.pdb
+/Volumes/NAS 1/Program/Source/adapter/obj/Debug/netcoreapp2.2/adapter.csprojAssemblyReference.cache
+/Volumes/NAS 1/Program/Source/adapter/obj/Debug/netcoreapp2.2/adapter.csproj.CoreCompileInputs.cache
+/Volumes/NAS 1/Program/Source/adapter/obj/Debug/netcoreapp2.2/adapter.AssemblyInfoInputs.cache
+/Volumes/NAS 1/Program/Source/adapter/obj/Debug/netcoreapp2.2/adapter.AssemblyInfo.cs
+/Volumes/NAS 1/Program/Source/adapter/obj/Debug/netcoreapp2.2/adapter.dll
+/Volumes/NAS 1/Program/Source/adapter/obj/Debug/netcoreapp2.2/adapter.pdb
